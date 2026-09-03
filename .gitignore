@@ -1,0 +1,4 @@
+Course_info.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
