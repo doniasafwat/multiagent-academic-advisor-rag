@@ -1,1 +1,7 @@
-
+pandas
+numpy
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+gradio
